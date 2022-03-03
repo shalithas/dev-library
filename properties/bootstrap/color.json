@@ -1,0 +1,18 @@
+{
+    "body": {
+      "bg": { 
+        "value": "{color-white.value}"
+      },
+      "color": {
+        "value": "{color-black.value}"
+      }
+    },
+    "primary": { "value": "{color-primary-100.value}"},
+    "secondary": { "value": "{color-secondary-100.value}"},
+    "success": { "value": "{color-success-100.value}"},
+    "info": { "value": "{color-gray-40.value}"},
+    "warning": { "value": "{color-warning-100.value}"},
+    "danger": { "value": "{color-alert-100.value}"},
+    "light": { "value": "{color-gray-20.value}"},
+    "dark": { "value": "{color-black.value}"}
+  }

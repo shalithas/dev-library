@@ -1,0 +1,11 @@
+{
+  "btn": {
+    "font": {
+      "family": { "value": "{font.family.base}" },
+      "size": { "value": "{font.size.base.value}" }
+    },
+    "border": {
+      "radius": { "value": "{border.radius.value}" }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "form": {
+    "select": {
+      "font-family": { "value": "{font.family.base}" }
+    }
+  },
+  "input": {
+    "bg": { "value": "{color-white.value}" },
+    "color": { "value": "{color-black.value}" },
+    "border": {
+      "color": { "value": "{color-gray-100.value}" },
+      "radius": { "value": "{border.radius.value}" }
+    },
+    "font": {
+      "family": { "value": "{font.family.base}" }
+    }
+  }
+}

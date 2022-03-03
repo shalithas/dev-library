@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "link": {
+      "font": {
+        "size": { "value": "{font.size.base.value}" }
+      },
+      "color": { "value": "{color-primary-100.value}"}
+    }
+  },
+  "navbar": {
+    "dark": {
+      "color": { "value": "{color-gray-80.value}" },
+      "active": { "color": { "value": "{color-secondary-100.value}" } },
+      "brand": { "color": { "value": "{color-primary-100.value}"} }
+    },
+    "brand": {
+      "font": {
+        "size": { "value": "{font.size.base.value} * 1.5"}
+      }
+    }
+  }
+}

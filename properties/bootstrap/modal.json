@@ -1,0 +1,10 @@
+{
+  "modal": {
+    "inner": {
+      "padding": { "value": "{spacer.value}" }
+    },
+    "content": {
+      
+    }
+  }
+}

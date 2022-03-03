@@ -1,0 +1,8 @@
+{
+  "border": {
+    "radius": { "value": "0.25rem" },
+    "radius-sm": { "value": "0.2rem" },
+    "radius-lg": { "value": "0.3rem" },
+    "radius-pill": { "value": "50rem" }
+  }
+}

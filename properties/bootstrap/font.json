@@ -1,0 +1,56 @@
+{
+  "spacer": { "value": "1em" },
+  "font": {
+    "weight": {
+      "lighter": { "value": 200 },
+      "light": { "value": 300 },
+      "normal": { "value": 400 },
+      "bold": { "value": 700 },
+      "bolder": { "value": 900 }
+    },
+    "family": {
+      "base": { "value": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"" },
+      "code": { "value": "SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace" }
+    },
+    "size": {
+      "base": {
+        "value": "1em"
+      }
+    }
+  },
+  "h1": {
+    "font": {
+      "size": { "value": "$font-size-base * 2.5" }
+    }
+  },
+  "h2": {
+    "font": {
+      "size": { "value": "$font-size-base * 2" }
+    }
+  },
+  "h3": {
+    "font": {
+      "size": { "value": "$font-size-base * 1.75" }
+    }
+  },
+  "h4": {
+    "font": {
+      "size": { "value": "$font-size-base * 1.5" }
+    }
+  },
+  "h5": {
+    "font": {
+      "size": { "value": "$font-size-base * 1.25" }
+    }
+  },
+  "h6": {
+    "font": {
+      "size": { "value": "$font-size-base" }
+    }
+  },
+  "headings": {
+    "margin": {
+      "bottom": { "value": "$spacer * 0.5" }
+    }
+  }
+}
