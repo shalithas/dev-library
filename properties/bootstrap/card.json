@@ -1,0 +1,23 @@
+{
+    "card":{
+        "spacer":{
+            "x":{"value":"$spacer"},
+            "y":{"value":"$spacer"}
+        },
+        "title":{
+            "spacer":{
+                "y":{"value":"$spacer * .5"}
+            }
+        },
+        "border":{
+            "width":{"value":"5px"},
+            "color":{"value":"rgba($black, .125)"},
+            "radius":{ "value": "10px"}
+        },
+        "height":{
+            "value":"100px"
+        },
+        "color":{"value":"red"},
+        "bg":{"value":"white"}
+    }
+}
