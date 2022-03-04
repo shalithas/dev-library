@@ -10,6 +10,39 @@
         "comment": "Bootstrap"
       }
     },
-    "color": { "value": "$primary" }
+    "color": { "value": "$primary" },
+    "margin": {
+      "bottom": { "value": "$spacer * 0.5" }
+    }
+  },
+  "h1": {
+    "font": {
+      "size": { "value": "$font-size-base * 2.5" }
+    }
+  },
+  "h2": {
+    "font": {
+      "size": { "value": "$font-size-base * 2" }
+    }
+  },
+  "h3": {
+    "font": {
+      "size": { "value": "$font-size-base * 1.75" }
+    }
+  },
+  "h4": {
+    "font": {
+      "size": { "value": "$font-size-base * 1.5" }
+    }
+  },
+  "h5": {
+    "font": {
+      "size": { "value": "$font-size-base * 1.25" }
+    }
+  },
+  "h6": {
+    "font": {
+      "size": { "value": "$font-size-base" }
+    }
   }
 }
